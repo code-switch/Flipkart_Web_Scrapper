@@ -1,4 +1,4 @@
-# Flipkart_Selenium
+# Flipkart_Selenium_main
 Certainly, here are the step-by-step instructions for setting up and running the application using a virtual environment for Python 3.7:
 
 1. **Setup Virtual Environment**:
@@ -27,6 +27,6 @@ Certainly, here are the step-by-step instructions for setting up and running the
 
 By following these steps, you can set up a virtual environment, download the ChromeDriver, install neccessary modules which are present in the requirements.txt , and run the `application.py` script in the Jupyter Notebook environment. This process helps ensure a clean and isolated development environment for your application.
 
-## Hurray Enjoy the code
+## And there you go Enjoy the Code
 
 #### Abhishek Jadhav
