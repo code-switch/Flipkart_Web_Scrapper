@@ -23,7 +23,7 @@ def homePage():
 def index():
     if request.method == 'POST':
         try:
-            DRIVER_PATH = r"D:/FlipKart_Selenium-main/chromedriver.exe"
+            DRIVER_PATH = r"chromedriver.exe"
 
             # Initialize the Chrome WebDriver
             driver = webdriver.Chrome(DRIVER_PATH)
