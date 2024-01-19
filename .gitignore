@@ -102,6 +102,7 @@ celerybeat.pid
 *.sage.py
 
 # Environments
+flipkart_env/
 .env
 .ven1
 .venv
